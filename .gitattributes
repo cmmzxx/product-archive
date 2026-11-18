@@ -1,0 +1,6 @@
+# Keep source files consistent on macOS and Windows; binary files are detected automatically.
+* text=auto eol=lf
+
+# Visual Studio solutions and Windows scripts use native Windows line endings on checkout.
+*.sln text eol=crlf
+*.ps1 text eol=crlf

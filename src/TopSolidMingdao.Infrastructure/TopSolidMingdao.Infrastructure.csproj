@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../TopSolidMingdao.Core/TopSolidMingdao.Core.csproj" />
+  </ItemGroup>
+</Project>
